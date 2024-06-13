@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+<i>❝ you know why i keep such a rabid cur<br>
+in a place of power kylo? ❞</i><br>
+</p>
 
-<!--
-**warmarrow/warmarrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+      <img src="https://64.media.tumblr.com/7a706f2dfeb960a767d65d69c8d95539/tumblr_o0v2e3ECcC1sn5lv4o1_1280.png"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<strong>ky</strong><br>
+it/its/itself. 18 yr.<br>
+read my rentry before any interaction.<br>
+</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<i>❝ a cur’s weakness, if properly manipulated,<br>
+can become its sharpest tool . ❞</i>
+</p>
