@@ -1,6 +1,6 @@
 <p align="center">
 <i>❝ you know why i keep such a rabid cur<br>
-in a place of power kylo? ❞</i><br>
+in a place of power, kylo? ❞</i><br>
 </p>
 
 <p align="center">
